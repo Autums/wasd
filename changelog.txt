@@ -1,0 +1,3 @@
+- Added pulse animation toggle
+- Fixed DPI slowdown issue
+- Improved auto clicker accuracy
